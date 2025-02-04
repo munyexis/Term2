@@ -1,5 +1,4 @@
-                  You are welcome dear!
-git fetch command. Keep moving forward plz!
+evey one is know what is the next
 
 
 Everyone know what is next.
