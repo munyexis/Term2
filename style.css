@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(130, 228, 19);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+form{
+    size: 56px;
+
+}
+span{
+    text-align: bottom;
+    width: 34px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 79px;
+    border-bottom: 3px solid black;
+}
+input{
+    font-size: 40px;
+    border: none;
+    border-radius: 25px;
+}
+button{
+    font-size: 35px;
+    border-radius: 20px;
+    border: 2px dashed purple;
+}
+label{
+    border: 1px black;
+    font-size: 36px;
+}
+.output{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    
+}
